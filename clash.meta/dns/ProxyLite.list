@@ -1,6 +1,8 @@
 # 代理补充列表
 
 # 一些走代理的域名
+
+DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,browserscan.net
 DOMAIN-SUFFIX,metacubex.one
