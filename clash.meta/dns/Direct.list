@@ -1,8 +1,5 @@
 # 我的一些没必要走代理的域名
 
-# linux.do
-DOMAIN-SUFFIX,linux.do
-
 # grammarly
 DOMAIN-KEYWORD,grammarly
 
