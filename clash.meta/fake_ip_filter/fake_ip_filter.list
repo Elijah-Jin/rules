@@ -1,3 +1,4 @@
+#来自：https://github.com/juewuy/ShellCrash/blob/dev/public/fake_ip_filter.list
 #LAN
 *.lan
 *.localdomain
@@ -154,6 +155,7 @@ ps.res.netease.com
 #向日葵远程控制
 +.oray.com
 +.orayimg.com
-#谷歌应用商店
+#以下为我补充添加
+#谷歌应用商店  
 +.services.googleapis.cn"
 +.xn--ngstr-lra8j.com"
