@@ -1,0 +1,10 @@
+# 我的一些没必要走代理的域名
+
+# grammarly
+DOMAIN-SUFFIX,grammarly.com
+
+# Junglescout
+DOMAIN-SUFFIX,junglescout.com
+
+# keepa
+DOMAIN-SUFFIX,keepa.com
