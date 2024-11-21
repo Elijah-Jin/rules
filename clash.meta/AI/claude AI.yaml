@@ -1,0 +1,6 @@
+# claude AI 的通配符
+
+payload:
+  - cdn.usefathom.com
+  - "*.anthropic.com"
+  - "*.claude.ai"
