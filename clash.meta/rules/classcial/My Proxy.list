@@ -3,6 +3,10 @@
 # mihomo
 DOMAIN-SUFFIX,metacubex.one
 
+# ultramobile
+DOMAIN-SUFFIX,ultramobile.com
+
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
