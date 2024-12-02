@@ -1,5 +1,10 @@
 # 我的一些没必要走代理的域名
 
+
+#netucp
+DOMAIN-SUFFIX,netcup.com
+
+
 #spartanhost
 DOMAIN-SUFFIX,spartanhost.net
 
