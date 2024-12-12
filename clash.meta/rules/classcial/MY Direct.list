@@ -1,11 +1,13 @@
 # 我的一些没必要走代理的域名
 
 
-#netucp
+# spaceship
+DOMAIN-SUFFIX,spaceship.com
+
+# netucp
 DOMAIN-SUFFIX,netcup.com
 
-
-#spartanhost
+# spartanhost
 DOMAIN-SUFFIX,spartanhost.net
 
 # grammarly
