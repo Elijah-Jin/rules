@@ -9,6 +9,7 @@ payload:
   - +.generativeai.google
   - +.proactivebackend-pa.googleapis.com
   - +.apis.google.com
+  - +.aistudio.google.com
   - .*colab.*
   - .*developerprofiles.*
   - .*generativelanguage.*
