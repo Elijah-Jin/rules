@@ -1,0 +1,10 @@
+payload:
+# grok写得
+
+  - x.ai
+  - api.x.ai
+  - docs.x.ai
+  - +.grok.x.ai
+  - +.developer.x.ai
+  - .*grok.*
+  - .*xai.*
