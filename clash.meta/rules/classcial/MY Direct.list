@@ -1,6 +1,9 @@
 # 我的一些没必要走代理的域名
 
-#
+# adobe
+DOMAIN,lcs-cops.adobe.io
+
+# 我的域名
 DOMAIN-KEYWORD,483600.xyz
 
 # cd包
