@@ -4,13 +4,13 @@
 DOMAIN,lcs-cops.adobe.io
 
 # 我的域名
-DOMAIN-KEYWORD,483600.xyz
+DOMAIN-SUFFIX,483600.xyz
 
 # cd包
-DOMAIN-KEYWORD,cdbao.net
+DOMAIN-SUFFIX,cdbao.net
 
 # spaceship
-DOMAIN-KEYWORD,spaceship
+DOMAIN-SUFFIX,spaceship.com
 
 # netucp
 DOMAIN-SUFFIX,netcup.com
