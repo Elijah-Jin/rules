@@ -1,10 +1,13 @@
 payload:
 # grok写得
 
-  - x.ai
-  - api.x.ai
-  - docs.x.ai
-  - +.grok.x.ai
-  - +.developer.x.ai
-  - .*grok.*
-  - .*xai.*
+- x.ai
+- api.x.ai
+- docs.x.ai
+- grok.x.ai           # 明确添加主域名
+- "*.grok.x.ai"       # 通配符匹配所有子域名
+- "*.developer.x.ai"  # 通配符匹配 developer 子域名
+- grok.com            # 明确添加 grok.com
+- "*.grok.com"        # 通配符匹配 grok.com 的子域名
+- "*xai*"             # 通配符匹配包含 xai 的域名
+- "*grok*"            # 通配符匹配包含 grok 的域名
