@@ -1,5 +1,8 @@
 # 我的一些没必要走代理的域名
 
+# v2link
+DOMAIN-SUFFIX,v2lnk.com
+
 # sony 登录
 DOMAIN-KEYWORD,account.sony.com
 
