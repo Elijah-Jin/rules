@@ -1,8 +1,5 @@
 # 我的一些没必要走代理的域名
 
-# infini
-DOMAIN-SUFFIX,infini.money
-
 
 # sony 登录
 DOMAIN-KEYWORD,account.sony.com
