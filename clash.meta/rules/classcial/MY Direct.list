@@ -1,5 +1,7 @@
 # 我的一些没必要走代理的域名
 
+# blender
+DOMAIN-SUFFIX,blender.org
 
 # sony 登录
 DOMAIN-KEYWORD,account.sony.com
