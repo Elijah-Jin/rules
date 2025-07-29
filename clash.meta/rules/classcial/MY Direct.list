@@ -1,5 +1,8 @@
 # 我的一些没必要走代理的域名
 
+# Baidu
+DOMAIN-SUFFIX,baidu.com
+
 # MIC
 DOMAIN-SUFFIX,made-in-china.com
 
