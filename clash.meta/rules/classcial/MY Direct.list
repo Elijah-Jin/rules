@@ -12,9 +12,6 @@ DOMAIN-SUFFIX,notion.so
 # blender
 DOMAIN-SUFFIX,blender.org
 
-# sony 登录
-DOMAIN-KEYWORD,account.sony.com
-
 # 域名比价
 DOMAIN,zh-hans.tld-list.com
 
