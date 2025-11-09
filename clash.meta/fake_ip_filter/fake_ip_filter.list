@@ -159,3 +159,7 @@ ps.res.netease.com
 #谷歌应用商店  
 +.services.googleapis.cn"
 +.xn--ngstr-lra8j.com"
+# pve
++.proxmox.com
++.download.proxmox.com
++.enterprise.proxmox.com
