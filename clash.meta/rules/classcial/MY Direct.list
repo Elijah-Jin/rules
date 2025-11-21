@@ -32,13 +32,19 @@ DOMAIN-SUFFIX,cdbao.net
 # spaceship
 DOMAIN-SUFFIX,spaceship.com
 
+# vps
 # netucp
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,servercontrolpanel.de
 
+# sixtynet
+DOMAIN-SUFFIX,sixtynet.net
+
 # spartanhost
 DOMAIN-SUFFIX,spartanhost.net
+
+######################
 
 # grammarly
 DOMAIN-SUFFIX,grammarly.com
