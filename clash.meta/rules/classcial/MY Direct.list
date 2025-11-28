@@ -54,3 +54,6 @@ DOMAIN-SUFFIX,junglescout.com
 
 # keepa
 DOMAIN-SUFFIX,keepa.com
+
+# homelab
+DOMAIN-SUFFIX,vaultwarden.home.483600.xyz
