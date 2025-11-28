@@ -56,4 +56,5 @@ DOMAIN-SUFFIX,junglescout.com
 DOMAIN-SUFFIX,keepa.com
 
 # homelab
+IP-CIDR,192.168.88.11/32
 DOMAIN-SUFFIX,vaultwarden.home.483600.xyz
