@@ -1,0 +1,2 @@
+# endpoint server 落地VPS
+216.36.116.69/32
