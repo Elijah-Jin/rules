@@ -1,5 +1,7 @@
 # 我的一些没必要走代理的域名
 
+# 观影
+DOMAIN-SUFFIX,gying.org
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
