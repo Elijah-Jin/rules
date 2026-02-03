@@ -4,6 +4,7 @@ payload:
   - cdn.usefathom.com
   - anthropic.com
   - claude.ai
+  - claude.com
   - "*.anthropic.com"
   - "*.claude.ai"
   - claudeusercontent.com
