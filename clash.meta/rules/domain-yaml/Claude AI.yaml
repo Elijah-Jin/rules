@@ -8,3 +8,4 @@ payload:
   - "*.claude.ai"
   - claudeusercontent.com
   - "*.claudeusercontent.com"
+  - "*.claude.com"
