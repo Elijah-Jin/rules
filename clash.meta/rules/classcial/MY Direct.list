@@ -1,5 +1,8 @@
 # 我的一些没必要走代理的域名
 
+#土耳其电商
+DOMAIN-SUFFIX,oyunfor.com
+
 # 观影
 DOMAIN-SUFFIX,gying.org
 
