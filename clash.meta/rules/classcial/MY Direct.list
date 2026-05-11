@@ -1,8 +1,5 @@
 # 我的一些没必要走代理的域名
 
-# voll
-DOMAIN-SUFFIX,vollcloud.com
-
 # 观影
 DOMAIN-SUFFIX,gying.org
 
@@ -38,15 +35,19 @@ DOMAIN-SUFFIX,cdbao.net
 DOMAIN-SUFFIX,spaceship.com
 DOMAIN-SUFFIX,spaceship-cdn.com
 
+######################
+
 # vps
 # netucp
 DOMAIN-SUFFIX,netcup.com
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,servercontrolpanel.de
-
+# vmiss
+DOMAIN-SUFFIX,vmiss.com
+# voll
+DOMAIN-SUFFIX,vollcloud.com
 # sixtynet
 DOMAIN-SUFFIX,sixtynet.net
-
 # spartanhost
 DOMAIN-SUFFIX,spartanhost.net
 
