@@ -1,5 +1,8 @@
 # 代理补充列表
 
+# iptv-cctv
+IP-CIDR,82.156.243.185/32,no-resolve
+
 # medie
 DOMAIN-SUFFIX,seedhub.cc
 
