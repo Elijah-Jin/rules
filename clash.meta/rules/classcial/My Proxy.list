@@ -1,7 +1,6 @@
 # 代理补充列表
 
-# emby公益服
-IP-CIDR,101.36.73.10/32,no-resolve
+
 
 # iptv-cctv
 IP-CIDR,82.156.243.185/32,no-resolve
