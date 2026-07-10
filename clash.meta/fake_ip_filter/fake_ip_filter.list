@@ -155,10 +155,22 @@ ps.res.netease.com
 #向日葵远程控制
 +.oray.com
 +.orayimg.com
+
+#从上游补充 2026-7-10
+*
+*.direct
+localhost.*.weixin.qq.com
++.kk-rays.com
++.battle.net
++.pub.3gppnetwork.org
++.gcloudcs.com
++.gcloudsdk.com
++.dynv6.net
+
 #以下为我补充添加
 #谷歌应用商店  
-+.services.googleapis.cn"
-+.xn--ngstr-lra8j.com"
++.services.googleapis.cn
++.xn--ngstr-lra8j.com
 # pve
 +.proxmox.com
 +.download.proxmox.com
