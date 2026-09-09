@@ -1,5 +1,10 @@
 # 我的一些没必要走代理的域名
 
+# PC手机链接安卓
+DOMAIN,dcg.microsoft.com
+DOMAIN-SUFFIX,windowsphone.com
+DOMAIN-SUFFIX,windowsphone-int.com
+
 # Esim%sim
 # true TH
 DOMAIN-SUFFIX,true.th
