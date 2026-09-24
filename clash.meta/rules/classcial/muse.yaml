@@ -1,0 +1,20 @@
+payload:
+  # Meta Muse 主站、登录及所有 Muse 子域名
+  - DOMAIN-SUFFIX,muse.ai
+
+  # Muse / Meta AI 入口及后端
+  - DOMAIN,ai.meta.com
+  - DOMAIN,auth.meta.com
+
+  # Muse 登录过程中实际涉及的 Meta 账号入口
+  - DOMAIN,facebook.com
+  - DOMAIN,www.facebook.com
+  - DOMAIN,instagram.com
+  - DOMAIN,www.instagram.com
+
+  # Muse 页面实际抓到的文件服务
+  - DOMAIN,lookaside.fbsbx.com
+
+  # Muse 页面实际抓到的 Meta 视频 CDN
+  # lax3-2 会随 Meta 边缘节点变化，所以只匹配 video-*.xx.fbcdn.net
+  - DOMAIN-WILDCARD,video-*.xx.fbcdn.net
